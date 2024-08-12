@@ -59,4 +59,4 @@ gaitober" => "gato"
 
 ### Autor:
 
-Adriana Manres
+- Adriana Manresa <br>
